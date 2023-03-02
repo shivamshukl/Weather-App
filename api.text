@@ -1,0 +1,39 @@
+base
+: 
+"stations"
+clouds
+: 
+{all: 0}
+cod
+: 
+200
+coord
+: 
+{lon: 77.2167, lat: 28.6667}
+dt
+: 
+1677780530
+id
+: 
+1273294
+main
+: 
+{temp: 23.05, feels_like: 22.98, temp_min: 23.05, temp_max: 23.05, pressure: 1020, …}
+name
+: 
+"Delhi"
+sys
+: 
+{type: 1, id: 9165, country: 'IN', sunrise: 1677719763, sunset: 1677761466}
+timezone
+: 
+19800
+visibility
+: 
+3000
+weather
+: 
+[{…}]
+wind
+: 
+{speed: 0, deg: 0}
